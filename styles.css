@@ -1,0 +1,54 @@
+* {
+    background-color: rgb(59, 58, 58);
+    margin-top: ;
+}
+ img {
+     max-width: 300px;
+     max-height: auto;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     padding-bottom: 20px;
+ }
+
+ .heading {
+     font-family: cursive;
+     color: cornflowerblue;
+     text-align: center;
+     font-size: 25px;
+     text-decoration: underline;
+     padding-top: 20px;
+     padding-bottom:20px;
+ }
+
+ p {
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-left: 30px;
+     margin-left: 30px;
+     font-family: 'Copperplate';
+     color: rgba(255, 255, 255, 0.719);
+     font-size: 20px;
+ }
+
+ #title {
+     font-family: fantasy;
+     color: cornflowerblue;
+     font-weight: bold;
+     text-align: center;
+ }
+ 
+ #foot {
+     color: white;
+     padding-top: 25px;
+     padding-left: 30px;
+ }
+
+ div {
+     border-style: double;
+     border-color: rgb(155, 154, 154);
+ }
+
+ #intro {
+     font-size: 25px;
+ }
