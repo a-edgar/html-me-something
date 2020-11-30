@@ -1,6 +1,10 @@
 * {
     background-color: rgb(59, 58, 58);
-    margin-top: ;
+    background-image: url("https://img.freepik.com/free-photo/abstract-image-disco-light-stage-background_106386-144.jpg?size=626&ext=jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
  img {
      max-width: 300px;
@@ -26,7 +30,7 @@
      margin-bottom: 50px;
      margin-left: 30px;
      margin-left: 30px;
-     font-family: 'Copperplate';
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
      color: rgba(255, 255, 255, 0.719);
      font-size: 20px;
  }
